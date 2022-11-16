@@ -1,0 +1,33 @@
+.kotak {
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    line-height: 100px;
+    color: white;
+}
+
+.red {
+    background-color: red;
+    height: 500px;
+    width: 70%;
+    margin-top: 40%;
+}
+
+.blue {
+    background-color: blue;
+    width: 100%;
+    text-align: center;
+    height: 300px;
+}
+
+.green {
+    background-color: green;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.pink {
+    background-color: pink;
+}
